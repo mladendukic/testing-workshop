@@ -6,7 +6,6 @@ describe('User can update account info', () => {
   
   it('Should navigate to Log in page', () => {
     browser.get('http://testingworkshop/login');
-    expect(loginPage.pageTitle).toEqual('Log in');
   });
 
   it('Should log in successfully', () => {
