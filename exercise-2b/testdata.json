@@ -1,4 +1,7 @@
 {
   "test_username": "Testuser1",
-  "test_password": "P@$5w0rD"
+  "test_password": "P@$5w0rD",
+  "register_username": "RegisterUser",
+  "register_password": "regPa$5!",
+  "register_info": "Some account info"
 }
